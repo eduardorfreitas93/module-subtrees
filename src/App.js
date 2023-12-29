@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>
-          module standalone dentro do submodule
+          module standalone
         </h1>
       </header>
     </div>
