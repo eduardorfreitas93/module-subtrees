@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>
-          module standalone teste 1
+          module standalone teste 1 alterando main
         </h1>
       </header>
     </div>
