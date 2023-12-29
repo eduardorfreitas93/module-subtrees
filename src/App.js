@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>
-          module standalone teste subtrees
+          module subtree standalone teste subtrees teste
         </h1>
       </header>
     </div>
